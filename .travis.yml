@@ -5,6 +5,6 @@ deploy:
   provider: heroku
   api_key:
     secure: 4099b2bb-c329-4fda-871d-bc7515a30ccd
-  app: ancient-bastion-3972
+  app: ancient-taiga-3972
   on:
     repo: ViniciusAnto09/node-app
